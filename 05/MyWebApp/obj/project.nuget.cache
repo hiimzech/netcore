@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zAGZrqyERxo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hiimzech\\Documents\\Git\\netcore\\05\\MyWebApp\\core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hiimzech\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\10.0.11\\microsoft.netcore.app.runtime.linux-x64.10.0.11.nupkg.sha512",
+    "C:\\Users\\hiimzech\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\10.0.11\\microsoft.aspnetcore.app.runtime.linux-x64.10.0.11.nupkg.sha512",
+    "C:\\Users\\hiimzech\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\10.0.11\\microsoft.netcore.app.host.linux-x64.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

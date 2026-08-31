@@ -1,0 +1,7 @@
+C:\Users\hiimzech\Documents\Git\netcore\05\MyWebApp\published\core.exe
+C:\Users\hiimzech\Documents\Git\netcore\05\MyWebApp\published\appsettings.Development.json
+C:\Users\hiimzech\Documents\Git\netcore\05\MyWebApp\published\appsettings.json
+C:\Users\hiimzech\Documents\Git\netcore\05\MyWebApp\published\core.dll
+C:\Users\hiimzech\Documents\Git\netcore\05\MyWebApp\published\core.deps.json
+C:\Users\hiimzech\Documents\Git\netcore\05\MyWebApp\published\core.runtimeconfig.json
+C:\Users\hiimzech\Documents\Git\netcore\05\MyWebApp\published\core.pdb
